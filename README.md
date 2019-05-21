@@ -9,7 +9,7 @@ Deep learning for gender identification written in keras and opencv
 
 <p>There are two options to execute - either train the model from scratch or use the pre-trained VGGnet directly.</p>
 
-<h3>If you do not want to train the model. Run -</h3>
+<h3>If you do not want to train the model.</h3>
 <p>pip install -r requirements.txt</p>
 <p>python main.py -i input_image</p>
   
