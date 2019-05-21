@@ -1,10 +1,6 @@
 # Gender-Identifier-ML
 Deep learning for gender identification written in keras and opencv
 
-# Sample output
-
-![](output.jpg)
-
 # Usage
 
 ## There are two options to execute - either train the model from scratch or use the pre-trained one directly
