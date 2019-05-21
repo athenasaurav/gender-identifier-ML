@@ -9,14 +9,15 @@ Deep learning for gender identification written in keras and opencv
 
 <p>There are two options to execute - either train the model from scratch or use the pre-trained VGGnet directly.</p>
 
-<h3>If you do not want to train the model</h3>
-<p>pip install -r requirements.txt</p>
-<p>python main.py -i input_image</p>
+<h3>If you do not want to train the model. Run -</h3>
+<p><b>pip install -r requirements.txt</b></p>
+<p><b>python main.py -i input_image</b></p>
   
-<h3>To train the model</h3>
 <p>You need matplotlib and scikit learn for training.</p>
 
-<p>python train.py -d path-to-dataset</p>  
+<h3>To train the model -</h3>
+
+<p><b>python train.py -d path-to-dataset</b></p>  
 
 <h2>NOTE</h2>
 
