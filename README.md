@@ -23,6 +23,9 @@ Deep learning for gender identification written in keras and opencv
 
 <p>This model dosen't genearalize well although the accuracy is 96% which is good enough for most ML pipelines. Feel free to tweak with  the hyperparameters or the architecture to achieve better results.</p>
 
+<h2>TODO</h2>
+<p>Make this work for image3.jpg and image4.jpg.</p>
+
 
 
 
