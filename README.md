@@ -1,5 +1,5 @@
 # Gender-Identifier-ML
-Deep learning for gender identification written in keras and opencv
+Deep learning for gender identification from facial images written in keras and opencv
 
 <h2>Sample output</h2>
 
