@@ -26,7 +26,7 @@ Deep learning for gender identification from facial images written in keras and 
 
 <h2>NOTE</h2>
 
-<p>I have merely created a wrapper. The original work can be found <a href="https://github.com/arunponnusamy/gender-detection-keras">here</a>. Thanks Arun for this great work.</p>
+<p>I have merely created a wrapper. The original work can be found <a href="https://github.com/arunponnusamy/gender-detection-keras">here</a>.</p>
 
 
 
