@@ -1,32 +1,39 @@
 # Gender-Identifier-ML
 Deep learning for gender identification from facial images written in keras and opencv
 
-<h2>Sample output</h2>
+## Sample output
 
 ![](output.jpg)
 
-<h2>Usage</h2>
+## Usage
 
-<p>There are two options to execute - either train the model from scratch or use the pre-trained VGGnet directly.</p>
+There are two options to execute - either train the model from scratch or use the pre-trained VGGnet directly.
 
-<h3>If you do not want to train the model.</h3>
-<p>pip install -r requirements.txt</p>
-<p>python main.py -i input_image</p>
+## If you do not want to train the model.
+
+```
+pip install -r requirements.txt
+python main.py -i input_image
+
+```
   
-<p>You need matplotlib and scikit learn for training.</p>
+You need matplotlib and scikit learn for training.
 
-<h3>To train the model -</h3>
+## To train the model
 
-<p>python train.py -d path-to-dataset</p>  
+```
+python train.py -d path-to-dataset
 
-<p>This model dosen't genearalize well although the accuracy is 96% which is good enough for most ML pipelines. Feel free to tweak with  the hyperparameters or the architecture to achieve better results.</p>
+```
 
-<h2>TODO</h2>
-<p>Make this work for image3.jpg and image4.jpg.</p>
+This model dosen't genearalize well although the accuracy is 96% which is good enough for most ML pipelines. Feel free to tweak with  the hyperparameters or the architecture to achieve better results.
 
-<h2>NOTE</h2>
+## TODO
+Make this work for image3.jpg and image4.jpg.
 
-<p>I have merely created a wrapper. The original work can be found <a href="https://github.com/arunponnusamy/gender-detection-keras">here</a>.</p>
+## NOTE
+
+<p>I have merely created a wrapper. The original work can be found <a href="https://github.com/arunponnusamy/gender-detection-keras">gender-detection-keras</a>.</p>
 
 
 
