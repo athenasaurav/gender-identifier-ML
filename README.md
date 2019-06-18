@@ -33,4 +33,4 @@ Make this work for image3.jpg and image4.jpg.
 
 ## References
 
-[arunponnusamy/gender-detection-keras](https://github.com/arunponnusamy/gender-detection-keras).
+[Gender detection (from scratch) using deep learning with keras and cvlib](https://github.com/arunponnusamy/gender-detection-keras).
