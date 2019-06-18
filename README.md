@@ -14,7 +14,6 @@ There are two options to execute - either train the model from scratch or use th
 ```
 pip install -r requirements.txt
 python main.py -i input_image
-
 ```
   
 You need matplotlib and scikit learn for training.
@@ -23,7 +22,6 @@ You need matplotlib and scikit learn for training.
 
 ```
 python train.py -d path-to-dataset
-
 ```
 
 This model dosen't genearalize well although the accuracy is 96% which is good enough for most ML pipelines. Feel free to tweak with  the hyperparameters or the architecture to achieve better results.
