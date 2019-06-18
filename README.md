@@ -31,9 +31,6 @@ This model dosen't genearalize well although the accuracy is 96% which is good e
 ## TODO
 Make this work for image3.jpg and image4.jpg.
 
-## NOTE
+## References
 
-<p>I have merely created a wrapper. The original work can be found <a href="https://github.com/arunponnusamy/gender-detection-keras">gender-detection-keras</a>.</p>
-
-
-
+[arunponnusamy/gender-detection-keras](https://github.com/arunponnusamy/gender-detection-keras).
